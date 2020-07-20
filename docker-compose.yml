@@ -12,5 +12,5 @@ services:
       - eagle-eye-net
 
 networks:
-  eagle-eye-net:
+  your-net:
     external: true
